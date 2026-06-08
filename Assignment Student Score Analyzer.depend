@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780890814 source:c:\users\user\desktop\as20250647\assignment 2026-06-08\assignment student score analyzer\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
